@@ -1,0 +1,15 @@
+/Users/mineta/Projects/PrototypePattern_4/PrototypePattern_4/bin/Debug/net7.0/PrototypePattern_4
+/Users/mineta/Projects/PrototypePattern_4/PrototypePattern_4/bin/Debug/net7.0/PrototypePattern_4.deps.json
+/Users/mineta/Projects/PrototypePattern_4/PrototypePattern_4/bin/Debug/net7.0/PrototypePattern_4.runtimeconfig.json
+/Users/mineta/Projects/PrototypePattern_4/PrototypePattern_4/bin/Debug/net7.0/PrototypePattern_4.dll
+/Users/mineta/Projects/PrototypePattern_4/PrototypePattern_4/bin/Debug/net7.0/PrototypePattern_4.pdb
+/Users/mineta/Projects/PrototypePattern_4/PrototypePattern_4/obj/Debug/net7.0/PrototypePattern_4.csproj.AssemblyReference.cache
+/Users/mineta/Projects/PrototypePattern_4/PrototypePattern_4/obj/Debug/net7.0/PrototypePattern_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mineta/Projects/PrototypePattern_4/PrototypePattern_4/obj/Debug/net7.0/PrototypePattern_4.AssemblyInfoInputs.cache
+/Users/mineta/Projects/PrototypePattern_4/PrototypePattern_4/obj/Debug/net7.0/PrototypePattern_4.AssemblyInfo.cs
+/Users/mineta/Projects/PrototypePattern_4/PrototypePattern_4/obj/Debug/net7.0/PrototypePattern_4.csproj.CoreCompileInputs.cache
+/Users/mineta/Projects/PrototypePattern_4/PrototypePattern_4/obj/Debug/net7.0/PrototypePattern_4.dll
+/Users/mineta/Projects/PrototypePattern_4/PrototypePattern_4/obj/Debug/net7.0/refint/PrototypePattern_4.dll
+/Users/mineta/Projects/PrototypePattern_4/PrototypePattern_4/obj/Debug/net7.0/PrototypePattern_4.pdb
+/Users/mineta/Projects/PrototypePattern_4/PrototypePattern_4/obj/Debug/net7.0/PrototypePattern_4.genruntimeconfig.cache
+/Users/mineta/Projects/PrototypePattern_4/PrototypePattern_4/obj/Debug/net7.0/ref/PrototypePattern_4.dll
