@@ -1,0 +1,15 @@
+/Users/mineta/Projects/AF_2/AF_2/bin/Debug/net7.0/AF_2
+/Users/mineta/Projects/AF_2/AF_2/bin/Debug/net7.0/AF_2.deps.json
+/Users/mineta/Projects/AF_2/AF_2/bin/Debug/net7.0/AF_2.runtimeconfig.json
+/Users/mineta/Projects/AF_2/AF_2/bin/Debug/net7.0/AF_2.dll
+/Users/mineta/Projects/AF_2/AF_2/bin/Debug/net7.0/AF_2.pdb
+/Users/mineta/Projects/AF_2/AF_2/obj/Debug/net7.0/AF_2.csproj.AssemblyReference.cache
+/Users/mineta/Projects/AF_2/AF_2/obj/Debug/net7.0/AF_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mineta/Projects/AF_2/AF_2/obj/Debug/net7.0/AF_2.AssemblyInfoInputs.cache
+/Users/mineta/Projects/AF_2/AF_2/obj/Debug/net7.0/AF_2.AssemblyInfo.cs
+/Users/mineta/Projects/AF_2/AF_2/obj/Debug/net7.0/AF_2.csproj.CoreCompileInputs.cache
+/Users/mineta/Projects/AF_2/AF_2/obj/Debug/net7.0/AF_2.dll
+/Users/mineta/Projects/AF_2/AF_2/obj/Debug/net7.0/refint/AF_2.dll
+/Users/mineta/Projects/AF_2/AF_2/obj/Debug/net7.0/AF_2.pdb
+/Users/mineta/Projects/AF_2/AF_2/obj/Debug/net7.0/AF_2.genruntimeconfig.cache
+/Users/mineta/Projects/AF_2/AF_2/obj/Debug/net7.0/ref/AF_2.dll
