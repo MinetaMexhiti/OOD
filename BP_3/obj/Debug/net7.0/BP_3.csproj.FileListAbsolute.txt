@@ -1,0 +1,15 @@
+/Users/mineta/Projects/BP_3/BP_3/obj/Debug/net7.0/BP_3.csproj.AssemblyReference.cache
+/Users/mineta/Projects/BP_3/BP_3/obj/Debug/net7.0/BP_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mineta/Projects/BP_3/BP_3/obj/Debug/net7.0/BP_3.AssemblyInfoInputs.cache
+/Users/mineta/Projects/BP_3/BP_3/obj/Debug/net7.0/BP_3.AssemblyInfo.cs
+/Users/mineta/Projects/BP_3/BP_3/obj/Debug/net7.0/BP_3.csproj.CoreCompileInputs.cache
+/Users/mineta/Projects/BP_3/BP_3/bin/Debug/net7.0/BP_3
+/Users/mineta/Projects/BP_3/BP_3/bin/Debug/net7.0/BP_3.deps.json
+/Users/mineta/Projects/BP_3/BP_3/bin/Debug/net7.0/BP_3.runtimeconfig.json
+/Users/mineta/Projects/BP_3/BP_3/bin/Debug/net7.0/BP_3.dll
+/Users/mineta/Projects/BP_3/BP_3/bin/Debug/net7.0/BP_3.pdb
+/Users/mineta/Projects/BP_3/BP_3/obj/Debug/net7.0/BP_3.dll
+/Users/mineta/Projects/BP_3/BP_3/obj/Debug/net7.0/refint/BP_3.dll
+/Users/mineta/Projects/BP_3/BP_3/obj/Debug/net7.0/BP_3.pdb
+/Users/mineta/Projects/BP_3/BP_3/obj/Debug/net7.0/BP_3.genruntimeconfig.cache
+/Users/mineta/Projects/BP_3/BP_3/obj/Debug/net7.0/ref/BP_3.dll
